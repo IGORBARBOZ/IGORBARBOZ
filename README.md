@@ -3,10 +3,10 @@
 ## 👨‍💻 Sobre Mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e resolução de problemas.
 
-Atualmente, estou focado em aprender **Desenvolvimento Web / Backend**. Minha trajetória profissional anterior me ensinou muito sobre comunicação e organização, habilidades que agora aplico no desenvolvimento de software e trabalho em equipe.
+Atualmente, estou focado em aprender **Desenvolvimento Web / Front End**. Minha trajetória profissional anterior me ensinou muito sobre comunicação e organização, habilidades que agora aplico no desenvolvimento de software e trabalho em equipe.
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estudando **Java, Python e CSS**.
+- 🌱 Atualmente estudando **HTML, CSS e JavaScript**.
 - 🎯 Objetivo: Me tornar um Desenvolvedor Full Stack.
 - 💡 Aberto a colaborações em projetos open source.
 
