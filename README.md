@@ -24,8 +24,8 @@ Atualmente, estou focado em aprender **Desenvolvimento Web / Backend**. Minha tr
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?usernameIGORBARBOZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGORBARBOZ&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username[IGORBARBOZ](https://github.com/IGORBARBOZ)&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[IGORBARBOZ](https://github.com/IGORBARBOZ)&layout=compact&theme=dracula"/>
 </div>
 
 ---
