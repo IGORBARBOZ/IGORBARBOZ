@@ -33,4 +33,5 @@ Atualmente, estou focado em aprender **Desenvolvimento Web / Backend**. Minha tr
 
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-barboza-26526a222/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ig2004rg@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ig2004rg@gmail.com) 
+**📧 ig2004rg@gmail.com**
