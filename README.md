@@ -39,7 +39,7 @@
   <a href="mailto:ig2004rg@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/igorbarboza" target="_blank">
+  <a href="[https://www.linkedin.com/in/igorbarboza" target="_blank](https://www.linkedin.com/in/igor-barboza-26526a222/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
