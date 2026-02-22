@@ -27,7 +27,7 @@
 
 ---
 
-### 🐍 Minha Jornada (Snake Game)
+### 🐍 Minha Jornada de Contribuições
 <div align="center">
   <img src="https://raw.githubusercontent.com/IGORBARBOZ/IGORBARBOZ/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
